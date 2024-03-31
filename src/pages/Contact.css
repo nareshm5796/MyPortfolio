@@ -1,0 +1,21 @@
+.contact-info {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+}
+
+.contact-form {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    font-weight: bold;
+}

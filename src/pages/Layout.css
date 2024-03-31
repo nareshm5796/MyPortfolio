@@ -1,0 +1,27 @@
+/* .items li{
+    margin-right: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    list-style: none;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.items{
+    display: flex;
+}
+
+
+   */
+   .nav-item:hover {
+    background-color: rgb(214, 237, 242);
+    border-radius: 5px;
+}
+.nav-item{
+    font-size: 18px;
+    font-weight: 600;
+}
